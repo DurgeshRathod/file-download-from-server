@@ -1,0 +1,25 @@
+{
+  "name": "file-download-from-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DurgeshRathod/file-download-from-server.git"
+  },
+  "author": "Durgesh Rathod",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DurgeshRathod/file-download-from-server/issues"
+  },
+  "homepage": "https://github.com/DurgeshRathod/file-download-from-server#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "mime": "^2.4.0",
+    "mime-db": "^1.37.0",
+    "mime-lookup": "0.0.2"
+  }
+}
